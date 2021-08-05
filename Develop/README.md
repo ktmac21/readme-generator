@@ -14,13 +14,13 @@
 * [Questions](#Questions)
 
 ## Description:
-When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project.
+README Generator is an application in which the user is prompted with questions about their project. Once the user finishes answering all the questions a professional readme file is generated!
 
 ## Installation:
-To install my README Generator download this file and save it to your desktop.
+To install please download file at GitHub.
 
 ## Usage:
-At command line prompt type index.js
+To start application enter index.js at the terminal command line, then answer the prompts!
 
 ## License: 
  License info found here at: 
@@ -28,10 +28,10 @@ At command line prompt type index.js
 https://opensource.org/licenses/MIT
 
 ## Contributions:
-No other contributors at this time but if you would like to contribute please see info.
+No other contributors at this time. If you would like to contribute please contact me.
 
 ## Tests:
-THis is one of my tests
+No tests at this time.
 
 ## Questions:
 
