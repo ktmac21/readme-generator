@@ -48,7 +48,7 @@ To start application enter index.js at the terminal command line and then answer
 
 https://user-images.githubusercontent.com/83046421/128443914-a93b9e3a-05fb-4b6b-8387-085a3c520e33.mp4
 
-Sample README generated from this app here: [README](ktmac21/readme-generator/Develop/README.md)
+Sample README generated from this app here: [README](/Develop/README.md)
 
 
 
