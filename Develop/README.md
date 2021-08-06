@@ -1,4 +1,4 @@
-# README Generator
+# Javascript Quiz
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
@@ -14,13 +14,13 @@
 * [Questions](#Questions)
 
 ## Description:
-README Generator is an application in which the user is prompted with questions about their project. Once the user finishes answering all the questions a professional readme file is generated!
+Javascript Quiz is an online web application in which the user can test their javascript knowledge by taking a quiz. The quiz is timed. Wrong answers reduces the users time, right answers increases the user's score. After the user either runs out of time or answers all the questions they are redirected to a highscore page where they can input their initials.
 
 ## Installation:
-To install please download file at GitHub.
+No installation required. Visit this link:  https://ktmac21.github.io/java-quiz/
 
 ## Usage:
-To start application enter index.js at the terminal command line, then answer the prompts!
+Click the start button and then click one of four multiple choice questions. If score is a high score, enter intials and play again.
 
 ## License: 
  License info found here at: 
@@ -28,7 +28,7 @@ To start application enter index.js at the terminal command line, then answer th
 https://opensource.org/licenses/MIT
 
 ## Contributions:
-No other contributors at this time. If you would like to contribute please contact me.
+No other contributors at this time. New contributors are welcome. 
 
 ## Tests:
 No tests at this time.
